@@ -1,0 +1,299 @@
+﻿MODIFIED KNAPSACK SPRAYER
+Name: Mr.Mohan Muktaji Lamb
+Innovation Description:
+The conventional knapsack sprayers have certain limitation like poor work rate, problem of blockage of the nozzle, pressure drop after short duration of use and poor pressure resulting less effect of pesticides on the pests/insects, etc. The idea of making such device came from working on the limitation of conventional knapsack sprayer thereby providing higher productivity, higher pressure, less use of pesticides and effective operation.
+This is an improved knapsack sprayer which contains pressure chamber, which stores the pressure for longer time after pumping. This sprayer also contains dual nozzle boom, which covers more spraying area. The present sprayer has also provision of changing stoke length for varying the pressure and feed rate.
+
+
+Non-Stick Clay Tawa
+
+
+
+Name: Mansukhbhai Raghavjibhai Prajapati
+Innovation Description:
+The commonly available iron non-stick tawa are expensive and not affordable by the common urban and rural people. In rural they are already using clay tawa but it is not non-stick. Non-stick clay tawa is a combination of traditional and modern technology. The clay tawa is coated with food grade non-stick material, which prevents food from sticking to the tawa. Clay also adds a unique natural taste to the food.
+
+
+Natural water cooler
+IMAGE:
+
+
+Name : Arvindbhai Patel
+Innovation description:
+In the torrid heat of the Indian summer, cool water is a priceless commodity. However, those traveling and living in the rural areas know that with summer comes erratic power supply. The ubiquitous earthen pots prove ineffective once the mercury rises beyond a point. They are also not suitable for public use. Water coolers are expensive and require electricity. Existing water-cooling solutions for public consumption at 150litre capacity may require more than 1200 W of power to operate and employ air compressors that circulate environmentally harmful refrigerants for cooling to occur. Innovator has developed a water cooler, which provides cool water, consumes less energy (solar PV) and does not require much maintenance.
+The Natural Water Cooler is a low cost, energy efficient, environment friendly water cooler that is based on the principle of heat exchange. It cools water naturally according to the external temperature and humidity. Water passes through cotton string covered copper coils, which are continuously being moistened by a dripper. A small DC fan operated through solar panel mounted on roof top facilitates the air circulation and evaporation of water from the cotton string on the coil cools the water inside. It reduces the temperature of input water by 8 to 10 degree centigrade depending upon the external temperature and humidity. It also has an in-built filter that provides clean and hygienic water. The external casing of copper coil is made of steel with sufficient ventilation. The use of copper tubes for flow of water has health benefits too. It has to be located in an area where there is sufficient ventilation and should not be directly exposed to sunlight.
+
+Poultry Raking Machine
+Name : Sureshbhai Narotambhai
+Innovation description:
+Raking is necessary to keep Poultry in good health. Due to Scarcity of labour, Innovator faced problem for doing racking manually in his Poultry farm. He started thinking to mechanize it by developing a machine. After doing modifications in the 1st prototype he could develop the refined product in 2008.
+It is being used for turning/disturbing the layers from bottom to top of Poultry wastes accumulated in the farm. This exposes ammonia and nitrogen to atmosphere which is present in the animal wastes. Proper racking reduces the mortality rate of chicks and also enhances the proper growth of chick by minimising the disease spread. The electrical cable is connected to the plug point for electric supply. The user holds the machine from the handle. The motor starts by turning on the power supply and it provides power to the driving shaft through belt & pulleys and chain & sprockets after net speed reduction of 1:34. The motor gives traction for propelling the machine forward. The racking is achieved by the wheels having lugs and blade.
+
+
+Modified tricycle for handicapped
+Name: Asjadbhai I. Dhuka
+Innovation Description:
+The innovation is a battery operated multi-featured tricycle with a steering wheel possessing better ergonomics and flexibility. It has been customized to suit the requirements of the differently abled user in a very simple manner. The tricycle operates on a battery & DC Motor (24V, 21 W, 1.5A). The battery allows the vehicle to run for 8 hours after full charge. The motors give a uniform speed of 8 km/hour facilitating its movement on sand also. Asjadbhai has incorporated few other features also. It has a reverse brake system, which allows this tricycle to move forward only. Hence, the tricycle can run on incline also without any fear of moving backwards, down the slope. Ergonomics have been carefully considered. The side metal arm support can be lifted allowing the disabled person climb up the seat comfortably. Once the person gets seated, the same can be lowered and locked. The seat has a push back system so that when the user feels tired he can push it back and extend it like a bed and take rest. Up to three hundred kg weight can be carried on his vehicle. The vehicle, which has a headlight, also has a provision of a water bottle holder and a newspaper/magazine holder. Though there are other tricycles available but the innovativeness in the present one is the integration of simple solutions making the tricycle disabillity friendly.
+
+
+Motor protection device
+Name: Shri Bharat Shrirang Kamble
+Innovation Description:
+Excessive voltage fluctuation in electric supply is the curse that most of the rural people have to live with. Poor quality of the electric supply often leads to frequent or premature burn out of the coils of motors. None of the devices currently available in the market, such as single-phase preventors, earth-leakage circuit breakers, thermal relays, auto-start current regulators, overload-prevention relays etc., can avert the possibility of motor burn out completely. The electronic circuit designed by Kamble attempts to provide a total protection to the motor as far as possible within a limited budget. It is specifically targeted at the motors meant for powering water pumps for agricultural applications. The circuit switches off the motor when any of the functional parameters gives rise to the possibility of burn out of the field coils. Some of the components used in the circuit are single-phase preventor, current sensor, overload timer, temperature sensor, voltage level sensor, day/night system, etc. Miniature pilot lamps light up to indicate the exact reason for which the supply to a motor is tripped. By eliminating the particular fault, or by waiting till the fault automaticallygets eliminated before restarting the motor, it is possible to eliminate motor burn out. Many farmers who have used the device and followed the instructions properly, have not faced problem of breakdown of their electric pump over past four or five years. The device can incorporate a log to record the operation of the pump and can help in regulating electricity use during periods of rationing. There are plans to introduce remote-control facility to the system so that an electrically operated pump can be controlled, sitting at home at a distance of even 10 km.
+
+
+Motorized Hoe
+Innovation description:
+The unit needs to be pushed by the user. The wheels are attached to the chain and sprocket arrangement through the axle of the wheels. A chain-sprocket drive transmits the motion from the axle of the wheel to drive the pump which can be engaged or disengaged by a shifter mechanism. When it is engaged with the sprocket, the pump starts reciprocating with the help of the four bar mechanism attached to the axle. This reciprocating motion generates the pressure inside the pump and imparts momentum to the fluid and this is sprayed with the help of nozzles. This neutral gear acts as a switch to get the liquid supply whenever desired. When it is disengaged from the sprocket, the pump is free and the structure can be moved without spraying any pesticides and hence the farmer can take the mobile spray pump anywhere without the fear of wastage of the pesticides.
+
+
+Oil Expeller 
+Name: Kalpesh Gajjar
+Innovation description:
+Innovators Oil expeller can crush all kinds of seeds using planetary gear system coupled with screw press. On an average, it saves power by 40 per cent when compared to the conventional oil expellers of the same capacity. It has higher production efficiency, which has been achieved by providing an improved and energy efficient transmission mechanism in a very compact design. Occupying just a third of the space of a conventional expeller, this machine is low on maintenance too. Energy conservation by this invention could lead to substantial reduction in the electricity requirement by the oil mills. As one KW/h saved at the users end could mean a relief of 2 - 4 Kwh of generation capacity. We can imagine that 50 % saving by this technology offers least cost option for bridging the ever-widening gap between demand and supply of energy.
+
+
+Paddy threshing machine
+Name: Late Shri Dilip Sinh Rana
+Innovation description:
+The proposed innovation is a hybrid product of two well-known concepts i.e. threshing by beating and retaining the whole stalk and is a pollution free and environment friendly technology. The concept of rubbing the crop in between threshing drum and concave and obtaining the whole stalk of the paddy while threshing is in use1. US patent nos. 4185642, 3963032, 4174718, 4821744 and 4489735 describe the threshing mechanism for paddy, wheat and similar crops. In all these mechanisms, threshing of the crop is achieved by rubbing of the ear-heads in between the threshing drum and the concave. No whole stalk of the paddy is retained in these threshers and is blown out in the form of chopped material called bhusa (husk). However, the proposed innovation is different from the threshing concept, here threshing is achieved by beating action, which is mechanized by using tractor power through PTO. It consists of self-made frame, feeding mechanism, threshing mechanism, and cleaning mechanism. A pair of pneumatic wheels is provided for transportation purpose. In feeding mechanism tray type hoppers are provided to keep the paddy bunches. Paddy bunches are moved forward through conveyer belts on either sides of the thresher. The upper and lower conveyer belts are made of thick cotton threads and rotate in opposite direction. The conveyer belts pass the paddy bunch for 1.5 m length during which only ear head portion gets threshed. In this thresher, the paddy is threshed by beating. Four beaters are provided on the central shaft. To remove the light foreign material and straw from the grain, two fans (self-made) are provided. The heavy foreign material and stalks of the paddy, which fall with the grains, are thrown out with the help of vibrating elevator, which runs beneath the fans. These fans and the elevator get the drive from PTO of the tractor. To collect the clean grain, two grain outlets on either side are provided. Three labours are required to operate this thresher apart from the tractor power (it can run even by 2 HP motor). Since this thresher does not produce husk, it is environment friendly and region specific technology. The cost of the thresher is estimated to be around Rs. 55,000. Using this machine, whole paddy stalk is obtained instead of chopped pieces, which are the main source of fodder for animals in the area. In whole stalk the nutritional value is conserved, it is easy to handle and very good raw material for paper industry also. The stalks of the paddy yield the income of about Rs. 4000/- per ha. His son is now making efforts made to double the capacity per unit time as compared to the conventional threshers.
+
+
+Pedal Operated Drilling Machine
+Name : Vikas Shinde
+Innovation description:
+This is a foot pedal operated manual drilling machine suitable for drilling larger pieces of materials made of metal, wood, PVC etc. This is useful especially in those areas where electricity is irregular or insufficient. In this machine, the power is transmitted from the pedal to the drill through different transmission gears. It can also be operated by a motor by connecting the device pulley to the motor pulley. Using this machine, an average human being can produce 150 rpm of drill bit. Though drilling machines are available in the market, the pedal operated ones are not found. Most available are electric operated semi-automatic or automatic. Costing about Rs 2000/-, this machine is very helpful for small scale workers and fabricators. The value addition of this product is under process with the financial support from National Innovation Foundation (NIF). Patent (1016/MUM/2011) has been filed by NIF in his name. Vikas and his wife were also invited for the Innovations Exhibition at the President House in 2010. Besides the pedal operated drilling machine, Vikas Shinde has innovated many other simple but effective machineries. He receives the inspiration for his innovations from daily needs. The main point to note in all his works is that these are simple and utilize National Innovation Foundation - India 109 junk, scrap and waste materials. Among many others, some of them are: Motor cycle operated pump: Facing electricity problem in his field, he developed this water pump, which drew power from his motor cycle's engine to lift underground water; Multipurpose Farm Machine: Using spare parts of a motorcycle, he developed an agricultural machine, which can be useful to cut grass, plough soil and make markings; Jhoola washing machine: He has also developed a washing machine, which can be attached to any swing. It enables the user to wash his/her clothes while enjoying the jhoola ride. Vikas is passionate about innovating devices, which are energy efficient, cost effective and can be used by many. He wants to improve on some of his current innovations particularly the water pump and farm work vehicle as currently not many people are able to use it. He intends to standardize a few parts, so that operating these machines becomes easy. Vikas says 'when I made these equipments, my only intention was to make them work and hence I did not paid much attention to these aspects however now I would like to standardize them and work on their appearance as well.' Incremental innovations in the waiting!
+
+
+Pressure Cooker Coffee Maker
+Name : Mohammad Rozadeen
+Innovation description:
+Coffee is not an available option at majority of the places and most roadside tea stall vendors provide tea only. The electric coffee-making machines are very costly (more than Rs.5000 each) and out of reach for most roadside. The innovator has modified the normal pressure cooker and made it into a coffee-maker. A simple attachment of a metal pipe along with pressure-releasing valve has been provided in the cooker lid. Cooker with water is heated over a stove. Once steam is formed, it is released through the metal pipe and collected in a jar containing a mixture of coffee powder, milk and sugar. After allowing sufficient steam into the jar, in a few minutes, frothy and tasty coffee is ready.
+
+
+Pulley with stopper
+Name : Mr.Amrut Bhai Agrawat
+Innovation description:
+Mr. Amrutbhai Agrawat has learnt to solve problem faced by farmers, women and labourers essentially through his own life experience. Hardship in early life, created in him a desire to do something about the problems faced by common people. He pursued priesthood in the temple and also innovated as many as seven different useful farm implements such as tilting bullock cart, groundnut digger, multipurpose toolbar, wheat sowing box etc. His son, Bharat is now continuing the tradition of innovations by innovating new devices. Incidentally, Amrutbhai did not put any restriction on the dessemination of this technology. He is a member of SRISTI board. He has got Gujarat Government’s Sardar Krishi Puruskar for his innovation. Called Pulley with a stopper, it is used for drawing water. The first model, Ganga is ratchet type and the second named Yamuna is roller type. In the first, safety of the person is ensured as the rope is stopped from rolling back into the well. In the second, the person drawing water from the well can even relax midway by using the stopper. In the villages, water is drawn from the wells, primarily for domestic purpose by the women folk. The originally designed rudimentary pulley system, which is also very physically demanding, is still in use for this purpose. Highly erratic rainfall, installation of submersible pumps and borings in arid areas, has lowered the water table further. This has compounded to the problems of drawing water from wells by means of a pulley. The problem despite being very real and dangerous was never taken up due to the apathy of the officials towards the affected group namely women and children. Realizing the importance of pulley in the daily routine of average rural women, Society for Research and Initiatives in Sustainable Technologies and Institutions (SRISTI) organized a workshop of artisans with proven capabilities to think scientifically and entrusted them with the responsibility to redesign the pulley to suit the women folk. The session threw up some interesting ideas, but it was Amrut Bhai Agrawat, who successfully envisaged not one but two workable models. Both the designs were presented in the subsequent sessions organized by the SRISTI at Gopaldham in Saurastra on June 1, 1996. The farmers at the workshop critically analyzed the two models and based on their feedback, Amrutbhai finalized the designs of the two models with minor modifications. They were named Ganga (Ratchet pulley) & Yamuna (Roller shaped pulley) respectively. Innovative Features of the pulley Ganga (Ratchet type): 1. The presence of the ratchet on the pulley stops the rope from rolling back into the well. This is a safety device, which will help save the lives of women and children who routinely pull water from the wells. Also it saves injuries such as rope burns and minimizes the loss of both, the bucket and the rope. 2. The wear and tear free bush bearing ensures smooth movement of the pulley thereby reducing the stress on the back of the person drawing water. Yamuna (Roller type) pulley: It consists of a hollow iron pipe of length 1.5 feet with diameter of 3 inches fixed on a bar 16-mm thick. A stopper is provided on the left side of the pipe and on the right a handle is attached to it. The handle is rotated to pull the bucket up from the well and the rope winds up on the roller pulley. The drawer, if needed, can rest midway, by using the stopper. However this system requires further improvisations in its design for it to be entirely efficient. Amrutbhai recently, developed a new model named "Saraswati".It is more flexible, free hanging and cost effective. It can be detached after use and taken home. If users want, they can install it permanently also by the chain lock mechanism. Current Status: The Ganga and Yamuna pulleys have been installed in several villages of Gujarat on an experimental basis and have received overwhelming response from individuals and NGO's. The demand for the pulleys is on the rise and GIAN has received many queries regarding them. The innovator wants this innovation to spread all over India and is willing to share the design with any entrepreneur, NGO or organization which would be willing to help in such an endeavor. Responses and Suggestions by the Villagers: Waliben, an old woman, said that the pulley helped her to rest while drawing the water from the well and that it was more easy to pull when compared to the traditional one. During power failures, women preferred to stand in long queues to pull water by this pulley instead of pulling by traditional system installed nearby. This observation was made by one of the men folk in the village. A woman said that the new pulley has more advantages when compared with the old one, as it is not fixed at one place on the bar. One girl said "In this new pulley, I am able to see how deep is the bucket in the well by keeping the rope and peeping in the well." A man in the village believed that this pulley was a god's gift for aged woman. One teacher said that he would have purchased this pulley had he not had a tube well dug in his well. He felt that the pulley should be available to facilitate each well of his village. He also suggested trying to reduce the cost of pulley. Kokilaben has been drawing water from the well since the last 30 years using the traditional pulley system. She now uses this new pulley. She suggested that the size of pulley be increased since knots were getting formed in the rope while pulling. This suggestion has been incorporated in the latest version of the pulleys. One woman who lost couple of her ropes using the old pulley now uses this pulley and has become more confident while drawing water, as she has no fear of losing any more ropes. Bhavnaben says, "I can pull the water very fast and still conserve energy." Ramilaben who is engaged in household work sends her children to draw water, as she feels safe with the new pulley. Even the children find the task easier. Jaydevsingh Parmar was of the opinion that the new pulley was a major breakthrough and had definite advantages. But the rubber stopper attached to it was likely to be damaged quickly. Thus a new kind of stopper should be introduced. A new stopper has been introduced after receiving the feedback.
+
+
+Chandraprabah - Rain Gun
+Name : Mr. Annasaheb Udgavi
+Innovation description:
+The existing flood irrigation system requires ample amount of water. Drip and sprinkler irrigation systems utilize water efficiently but it is very difficult to irrigate long and dense crops by them and in short duration. The existing sprinklers are moving discharge sprinklers; single nozzle assemblies, which have been employed with a deflector, used to break up the single fluid stream. In these moving discharge sprinklers, the deflector and the nozzle assembly have each been separately driven by gear connections to the transmission.
+
+
+
+
+Grading Machine for Raisins
+Name : Ramdas Madhavrao Jagtap
+Innovation description:
+This is a single unit that removes dust and twigs and grades raisins by size. The machine consists of three motors and three sieves, blower, a belt and pulley mechanism and a rubber brush. The grapes are dried for 15 – 20 days and then treated with chemicals to ensure proper drying and protection from pests. The dried grapes are fed into the machine through a feeder, which has a rotor with a rubber brush. A 3 HP motor drives the mechanism. The brush hammers the dried grapes to get the small twigs off the grapes. These dried grapes are then passed through the blower, which blows the dust off them and cleans the grapes with the help of a high-pressure airflow. The blower utilizes the power of a 2 HP motor. The dried grapes are now clean and are graded with a vibrator (driven by a 2 HP motor) connected to three sieves with different wire meshing (9 mm, 6 mm and 4 mm). These are connected through a pulley-belt drive. The dried grapes separated over each sieve are collected in a different chamber after they are scaled in specific grades. These are then finally processed accordingly for making raisins (kishmish). The machine grades the raisins into three sizes – large, medium, and small. There are two models of the machine- the smaller model grades about two tons of raisins in 12 hours and the bigger model grades four tons in the same period. The machines weighs 600 kg and 1000 kg respectively. The smaller machine costs Rs.30, 000 and the bigger machine costs Rs.45, 000.
+
+
+Ribbed Tawa
+Name: Late Ravjibhai Savaliya
+Innovation description:
+The innovation is a griddle made of aluminum alloy with concentric ribs at the bottom. The change in material and configuration leads to the saving of a significant amount of energy as compared to the flat iron griddle. The thermal efficiency of ribbed aluminum tavas was found to be 1.09 per cent more than the plain aluminum tavas and 7-8 per cent more than the traditional iron tavas as per the report of Indian Institute of Petroleum, Dehradun. This testing was facilitated by GIAN/ NIF. They further suggested varying the thickness and size of the tava and the spacing of the concentric ribs at the bottom for design optimization. Mumbai University Institute of Chemical Technology (UICT) also tested the same and confirmed the advantage. The presence of the ribs increases the area of contact between the flames and the pan surface i.e. the surface area, which leads to better heat utilization. This griddle having 5 mm thickness ensures lateral conduction of heat as well. The prior art2 discloses a variety of utensils for such cooking however, ribbed bottom utensil for cooking could not be found. Ravjibhai also got the Design Registration Certificate for the same. In traditional griddles, the handle is riveted to the main plate, whether iron or aluminum. With use, due to the regular contraction and expansion, the handle and pan joint becomes loose. This sometimes makes the griddle dangerous to use as it may turn in the hand. Ravjibhai solved this problem by using a spring loaded bolt. He screwed the handle to the pan using this. Whenever the handle gets loose, it can be tightened using a screw driver. But this incorporation increased the cost of the product. Then much work was done to improve the riveting so that the handle also does not get loose with time and at the same time cost also does not escalate. Thousands of these ribbed bottom tavas have been sold to satisfied customers in Gujarat and other parts of India and even abroad.
+
+
+Two-wheeler based mobile spray painting device
+Name : Sheikh Jahangir Sheikh Usman
+Innovation description:
+The spraying unit consists of a one hp air compressor head and a cylindrical air tank to store the pressurized air. The scooter engine power is taken to the compressor head through a belt drive. In the present system, the crankshaft of scooter engine is extended and a pulley is mounted on it, deriving the power from it to run the compressor. The compressor head pressurizes air, which is transferred to the air tank through the connecting exhaust port. The pressurized air from air tank is supplied to spray-painting unit through its delivery point. Apart from this, the rotary motion of engine is used to pump water, to generate electricity, for grinding tools, for drilling, for running fan and for washing vehicles. The unit is portable and can be transported to any location at the doorstep of customer. About a liter of petrol is consumed for painting a 407 Tata truck/Ambassador, taking almost an hour’s time to complete the task. This is at half the charge for normal painting. The cost of the unit including cost of old scooter is only Rs. 12,000/-.Sheikh Jahangir is proud of his innovation. An ardent believer in hard work, he is always willing to help others in any way possible.
+
+
+Innovative Non Return Valve
+Name: -Shri Arvind Khandge     
+Innovation description:
+As per the present technology of internal combustion engines, air enters in cylinder through air filter & carburetor. At the end of suction stroke, the inlet valve does not get closed immediately it takes about 40o after bottom dead center (BDC), during this period the entered mixture after hitting on piston & cylinder wall escapes to atmosphere through inlet valve, carburetor & Inlet side of Internal Combustion engine. This leads to improper combustion due to inappropriate proportion of air & petrol. Khandke referred these effects as Bounce Back Loss.  But as per Mr. Khandke’s theory inlet valve is kept opened for 40 to 60 degrees to fill the cylinder as much as possible. But air is an elastic fluid, hence during this period instead of entering more Air-fuel mixture into cylinder, the Air-fuel mixture simply bounces on cylinder wall & piston top according to Newton’s 3rd law wall & piston provides equal & opposite reaction. The effect of this bounce back is to fill the cylinder insufficiently. Another effect is that Air-fuel mixture gets bounced which tends to change the Air fuel ratio. Also the inlet side pollution is increased. Due to above two reasons combustion remains incomplete & increases the Carbon-monoxide emission from Exhaust side. Mr. Khandke referred these effects as Bounce Back Loss. After extensive study & research to get beneficial effects of these Bounce back loss he has developed Eco-Friendly Non Return Valve.
+
+Innovative Printer Head for Golden Embossing
+Name: -Ravindra Chopade
+Innovation description:
+One day, while he was repairing the wire of the speaker by soldering iron there was a golden foil lying near him. He kept the golden foil on the leather and wrote his name with the soldering iron on it and found that his name was embossed in golden fonts on leather. This gave him the idea to search for a pen which could do this embossing work. He first experimented with a soldering machine and foil on a piece of rexin. When he saw this experiment being successful he searched on Google for existing machines and found that there is one machine, a plotter of company  named Graptek could be used for his purpose. He found one unit with help of a family friend. In the first machine soldering iron tip has been replaced with a ball pen tip and fixed on the Graptek machine. A sheet of foil is placed over rexin and the pen is used to imprint desired content on the rexin sheet. Since the Graptek machine was old and had some errors he purchased a vinyl cutting machine and started his further research and development work on it. Later the old Graptek machine was disassembled and parts were used for R&D. The vinyl cutting machine was successfully modified and made into a golden embossing machine. This machine had FIXE software, which provided the filling effect option, which proved instrumental in giving depth to the content embossed on rexin or leather.
+Innovative Pulse Thresher
+Name: - Shri Gopalbhai Surtia
+Innovation description:
+Conventionally, farmers are used to separate the pods through thresher or by hand pounding. Small farmers cannot afford the thresher and normally they hired it during the season Timely availability of thresher during the peak season and availability of labor is a problem for farmers. Mr. Gopalbhai Surtia a farmer from Katholi village in Baroda district of Gujarat has invented a manually operated simple but very useful solution. It consists of two hollow iron pipes secured on main shaft fitted on either sides of the iron cot. Both the shafts are connected with each other through the linkage. A push-pull type handle is provided to operate the beating unit. When the handle is pushed or pulled, a beating action is achieved which is used to thresh the pulses put on the iron cot.  Thus, the threshing is achieved by beating action. Due to this beating action the pulses are separate and collected at bottom through sieve. This thresher is useful for threshing pigeon pea, black gram, green gram, etc. Also it can be used for threshing soybean.
+
+
+Innovative Sickles
+Name: - Shri Kisorbhai Bhardawa
+Innovation description:
+Kishorebhai Bharadwa of Junagadh, Gujarat has developed three different types of sickles which can be used for weeding, inter culturing and harvesting. These address the problem of wearing out of blades in sickles due to repeated sharpening. Kishorebhai and his father are famous in Galavav and neighbouring villages as experts in farm implements. Farmers would often bring their problems concerning their tillers, hoes, ploughs, trailers, etc., to Kishorebhai and would mostly get appropriate solutions. In 1995, a group of people from a nearby village had come to his workshop for some such work. They were quite satisfied with the solution provided by him but before leaving they wondered why it was that Kishorebhai had not come up with any new ideas despite being such an accomplished artisan. Kishorebhai parroted his father's words, "New ideas are for the wealthy and educated folks. When you eke out a hand-to-mouth existence, it is but impossible to innovate.” But Kishorebhai’s customers were not satisfied with this reply and kept on nagging him to come up with some worthwhile idea and bring fame to the area. One common need these farmers approached him with was for getting their grass-shearing knives sharpened; as the shearing blades usually got blunt after cutting grass for a period of between eight to ten hours. This led Kishorebhai to think up an idea for improving the life of the tool between re-sharpenings. Thus he designed the three types of sickles, which had features to address specific difficulties. A normal sickle has a long blade with a wooden handle. One has to sharpen the whole blade when it gets blunt. Repetitive sharpening of the blade makes its base thin and one has to discard the sickle and buy a new one, after four to five times of sharpening. To avoid this, the innovator has developed three different types of sickles. The first type of the improved sickles incorporates two C-shaped, metallic guard plates, with a thin blade sandwiched in between. The blade is fastened in position through screws near the wooden handle. So whenever there is a need to sharpen the blade, the thin blade can be removed and sharpened and then fixed back to the iron base. The user need not rush to the workshop with the blunt sickle. The second type of sickle is two-sickles-in-one. The two sickles face opposite directions and are joined together at the base near the wooden handle. Kishorebhai avers that this sickle is good for cutting tough grass, silage or hay. Using the right grade of steel, the shaping of the teeth and the edges have been so fashioned that the blades retain their keenness. If the blade on one side gets blunt, the other side can be flipped and used. The third type of sickle has a concave shaped edge for harvesting crops, while on the top of it; a small pointed metal piece is attached between the sickle and the handle which is used for removing weeds and also to break soil clods.
+
+
+Innovative Wood Stove
+Name: - Shri Bharat Agrawat
+Innovation description:
+Among various innovations of his, only one dealing with cooking stove is taken up for elaboration. Stoves having three chambers connected in parallel are available in art; Astra stove (Jagdish K.S.2004, The development and dissemination of efficient domestic cook stoves and other devices in Karnataka Current Science 87(7):pp. 926-931). But these chambers are connected horizontally. In this case, the stove consists of two chambers, each with a burner for cooking, and a geyser for heating water. Both burners can be used simultaneously, saving time and using the heat effectively. The heating chambers are oriented at different levels in order to be able to completely utilize the heat energy produced connected to a chimney, which provides part of the draft. Inside the main chamber, mud has been used as insulating material to retain the heat. There are air vents on the sides of the first chamber to allow cooling of stove so that it is not too hot to touch for the women/men using it.Bharatbhai is working further on the stove and wants to add another chamber (which can be utilized for steam cooking). He wants to fine tune its thermal efficiency, reduce assembly’s weight and cost by making stove body with GI sheet. He envisages building versions with different burner attachments. While he has sold more than three-dozen units of the current model locally, he is planning to launch commercial versions having two burners with geyser and one burner with geyser. This product may have considerable social impact and commercial potential.
+
+
+Jalpari Water carrier
+Name: - Shri Madhav Sawant
+Innovation description:
+Women who walk miles with heavy water pitchers on their head, suffer discomfort and even injuries. This innovation consists of a shoulder slung unit fixed with water canisters balanced on either side. The carrier has two washable plastic containers of 20 liters capacity in the front and the back respectively. Metallic handle grips for holding and picking, a soft flexible shoulder strap and a tap for taking out water are some of the features of this versatile unit
+
+
+
+
+
+
+
+
+
+
+
+
+Jabbar gear for rickshaws
+IMAGE:
+
+
+Name -Mohd. Sheikh Jabbar
+Innovation description:
+Once Jabbarbhai was watching a rickshaw puller driving in front of his truck and it struck him that he could make the rickshaw puller’s life easier by attaching another gear to it. He went on thinking about it and one day the whole picture of how such a system could be made was ready in his mind. Quite excited he discussed this idea with his friends but got nothing but ridicule for it. Their response made him also feel slightly sceptical as he thought that if anything could be done on a rickshaw, others would have already done it especially as “there are many highly qualified people in the world who would have thought about it”. The only thing which kept nagging him was the fact that rickshaws are designed by people who do not use them and therefore are not familiar with the problems the rickshaw pullers face. This motivated him to pursue his idea and he went to a fabricator and discussed it, but the fabricator also discouraged him and even said that the idea was impractical and could never be realised.
+ Determined not to give up his idea, Jabbarbhai left off driving trucks and bought a rickshaw for Rs.550 in 1975 with the dual purpose of earning his living as well as trying out his ideas on it. Though the idea of fitting a gear often crossed his mind, he found that he had neither the time nor the resources to work on it. The daily rigour of pulling rickshaws also took its toll on his health and he fell sick and could barely work for more than 2-3 hours which lead to a constant decline in his earnings. Finally one day he felt that it was high time to work on the as he needed to earn more, particalarly as his daughters needed to be married off and he himself was getting older too. With this aim he bought some tools and spare parts and began developing his “two-gear rickshaw”. In his free time he would open the freewheel, axle and other parts of the vehicle to understand its mechanism. Completely involved he would lose all sense of time and wake up at odd hours. He used to go around hunting for scrap and spare parts in the Chor Bazaar and would go without food for hours. Soon his wife also began assisting in the gear system. His friends and relatives ridiculed his lofty ideas and asked him why he tinkered with a well functioning and new rickshaw, but none of this deterred him from the pursuit of his goal. Fifteen years after the idea struck him the two-gear rickshaw was ready - after umpteen highs and lows - and he could ride it for the first time in 1989. Jabbarbhai continued to improve his innovation. Next he developed a four-gear differential system with double axle, which would overcome a mechanical flaw extent in the normal rickshaw where only one of the wheels is powered from the torque given by the puller. Whereas here by transferring it to both wheels, it became a “two-wheel” drive. The next stage in development was a four-gear rickshaw with differential mechanism and single axle in which the double-axle was removed and a single continuous axle was introduced. The power from the paddle was thus transferred to both the wheels, but in a much simpler fashion and it also reduced the add-on weight. The principle employed in the gear-system developed by Jabbarbhai is similar to the double sprocket system, where two free wheels are used. Free wheel is a simple but indigenous mechanism which allows rotation in one direction and becomes free in the reverse direction. Jabbarbhai used this mechanism and converted it into a gear system. He devised a mechanism in which the gear is changed or engaged with the help of a dog-lift, which can be activated by the rickshaw-puller with the help of the lever attached to the handle. As soon as the puller pulls the string, the dog-lifter is released and the cam gets released- it moves up and in turn gets locked with the teeth inside the free wheel and thus the gear is engaged. Once the vehicle gains some motion, the puller shifts to second gear. Thus the modified system has the following features -improved free wheel, multi-gear system, drum brake means and multi-chain system. It is simpler in construction, of lower cost and easier to maintain compared to similar devices which have got US patents. Compared to the traditional rickshaw cycles and the ones developed by IDC and IIT Delhi, this model developed by Jabbarbhai have three and four gear speed options.
+
+
+Kaju Cutter
+IMAGE:
+
+
+Name: Mr. Subhash Vasantrao Jagtap
+Innovation description:
+•        Fresh/wet cashew are carried by the chain conveyer de‐shelling 
+•        The cutter consists of two powered discs each having four knifes
+•        Two tools attack on the nut simultaneously, the shell needs to be separated manually 
+•        The conveyer chain has cups to hold the nuts, the spacing of the cups has been kept matching the speed of the rotary disc/cutting tool 
+•        Can process over 25 kg cashew nut per day.
+ 
+Present prototype has components made of readily available MS from scrap and are not properly aligned (i.e shaft, cutting blades and gears). Also the shell needs to be opened manually which is panic operation, design and development of value added prototype is under development. Designer’s inputs in terms of ergonomics and aesthetics would be needed.
+Kittanal
+IMAGE:
+
+
+Name: - Shri Khimjibhai Kanadiya
+Innovation description:
+One of the major activities in nurseries, bag filling, is a tedious and expensive task. One had to use the scoop several times to fill one bag, thereby consuming time and involving extra labour. Khimjibhai’s meticulous observation of the process yielded a simple yet intelligent idea, which gave birth to ‘Kittanal’. It is a hollow cylindrical piece of PVC pipe with one end slightly broadened and the other end cut at 45 degree to the axis. The tapered end is inserted into the polythene bag and held over the PVC tube and scooping the other end in the soil fills the bag in one scoop. Though it looks a very ordinary device, it is highly effective in filling plastic bags with soil, which are used for growing saplings.
+
+
+Lemon and Tamarind based Herbal Pesticide for Castor Crop
+IMAGE:
+
+
+Name: Shri Banidan Mavaljee Gadhvi
+
+
+
+
+
+
+Innovation description:
+The idea of using tamarind and lemon juice mixed with water occurred to him when he thought that even human beings find it difficult to bear the sour taste of lemon and tamarind. Then why not test it on insects? And he succeeded in his effort! The method involves mixing 500 ml juice of tamarind with 500 ml juice of lemon in 15 litres of water. This mixture is then sprinkled over the infested crop in 0.25 ha. He and other fellow farmers report almost complete control of this pest in castor crop. Looking at his experience, other farmers also started following his method to control the pest. An individual innovation may eventually become the traditional knowledge in due course.
+
+
+Low cost solar cooker
+IMAGE:
+
+
+Name: - Mr. Niranjan Khatri          
+Innovation Description:
+This innovation, a Solar Cooker developed by Mr Niranjan Khatri, has been taken up by GIAN as a special social project. Technopreneur Promotion Programme (TePP) has sanctioned financial assistance of Rs. 1.30 lakh to disseminate the technology. About 100 solar cookers were manufactured and supplied to women in rural areas in Gujarat through NGOs like Self Employed Women’s Association (SEWA) and Maldhari Rural Action Group (MARAG). This project was taken up at the request of the Department of Science and Technology as a special case.                                                                                  
+
+
+Low Cost Windmill
+IMAGE:
+
+
+Name: - Shri Mehtar Hussain & Shri Mustaq
+
+
+Innovation description:
+Md. Mohhand Mehtar Hussain (38) and Mushtaq Ahmad (28) are resident of Darrang, Assam. Looking for a low-cost alternative to pump water in the fields for the winter crops, they have devised simple windmill made up of bamboo and tin sheets. Married, with one son, Mehtar lives in a joint family with his widowed mother, one sister and brother. The family owns two acres of land, which the two brothers jointly look after. Both have completed their education up to higher secondary and they have been farmers. They produce just enough paddies for their own consumption, with a little surplus in some seasons. The main source of income for the family is a pension of about Rs. 2,500 per month in the name of his late father, who had retired as a Primary school teacher. Though economically poor, theirs is a happy and close-knit family. Though the water table is not too deep, but drawing water is not easy since electricity supply is erratic and most small farmers cannot afford other means also. Mehtar and his brother while growing paddy in winter season (also called bodo paddy), needed irrigation from the well. Continuous pumping by hand involves a lot of effort and drudgery. At the same time, pumping out water by using diesel sets was a big drain on their resources. He pondered over the problem and looked around for a solution. The depth of water level is around 40 to 50 ft and abundant amount of wind is available in this area. In 2008, the Network was looking to use another innovation, the Bullet Santi for harvesting salt from salt panes. During one such visit the GIAN team observed that the place had ample amount of winds and the water tables were not deeper than fifty feet. It was soon realized that the windmill could find an application in pumping water for salt farming. India is the third largest salt producing country in the world with an average annual production of about 157 lakh tonnes. The state of Gujarat contributes around 70% of it.  The Little Rann produces 21 per cent of total salt production of India. It is estimated that 54,000 salt workers (Agarias) are engaged in the salt making in the state and more than 10,000 Agaria families are involved in inland salt farming in the Little Rann of Kachchh (LRK).Because of lack of availability of electricity, farmers are using diesel engine for pumping saline water. On an average, for producing about 1000 tons of salt the expenditure is Rs. One Lakh, out of which about Rs. 60,000/- is spent on fuel (crude oil) alone. Because of limited financial resources, they do not have any buying capacity. The salt traders exploit them by giving them advances for their recurring expenses and then enter into buy back agreement for salt at a very cheap rate. The chain of middle men, traders, transporters and retailers grabs the most of profits leaving behind salt farmers. The result is that after so much of hard work in trying conditions what they get in the end is nothing compared to the labor they put in.
+
+
+Machine for making cow dung logs for eco-friendly cremation
+IMAGE:
+
+
+Name: - Mansukhbhai Prajapati
+Innovation description:
+Conventionally fire wood, electricity or LPG gas is used for cremation purpose. Indian people mostly prefer traditional product for cremation e.g. wooden logs and dried cow dung logs. Compared to fire wood and other alternatives, cremation using cow dung logs cost less. This has lead to the increased demand of cow dung logs but due to difficulty in manufacturing long logs, availability remains a problem. This opportunity of innovation inspired Shri Mansukhbhai Prajapati to develop a machine that makes long cow-dung logs with minimum human intervention.A combination of dung and straw (or any agro waste/harvested crop residues) is fed into the hopper of the machine. Screw mechanism has been provided in the machine, which helps in mixing raw materials thoroughly, compress them and extrude them out. By using different size of die, logs of different shapes and sizes can be made easily. Produced logs are then put under the sunlight to dry out the moisture inside them, making them hard and sturdy.
+
+
+Manually operated cow dung pot making machine
+IMAGE:
+
+
+Name: - Paresh Panchal & Gopal bhai Suratia
+Innovation description:
+Shri Gopalbhai Surtia, a grassroots innovator from Gujarat (India) came up with an innovative idea of making cow dung cups for nurseries to grow saplings. The innovation lies in the idea and achieving optimum combination of mixers of cow dung and other natural binders used to make it sturdy and resistant to pest. It is easy to manufacture and an environment friendly product. As an added bonus, it provides employment in rural areas, factors that make it sustainable and scalable within favorable geographies. Innovator developed eco-friendly pot by using cow dung and agriculture waste, which is completely biodegradable. The innovation lies in the idea and achieving optimum combination of mixers of cow dung and other natural binders used to make it sturdy and resistant to pest. To streamline and standardize the production process of these cow dung pots, Innovator developed a manually operated cow dung pot making machine. This has enabled mass production thereby ensuring comparatively lesser per unit cost of the cow dung pots.
+
+
+
+
+Matchsticks from natural fibre
+Name: - Mr. Uttam S Patil
+Innovation description:
+A number of natural fibres were not being fully utilized leading to the downfall of the industries based on the cultivation and production of such fibres. Then Patil thought of the various alternative products that could be made using natural fibres. One idea that occurred to him was that these fibres could be used to make matchsticks. However, he faced a number of problems while designing the matchsticks, one of which was finding the right binding agent for the fibres. After trying out glue and various other starches, he developed the right combination. Another idea of his was using some natural oil to weatherproof the matchsticks. This would further harden the matchsticks and improve their appearance. The matchsticks would thus burn continuously and extinguish immediately.
+ 
+At present he manufactures the matchsticks for personal use. He sends the sticks to institutes and other places for demonstration purposes but has not commenced commercial production. He has also provided drawings of the machinery required for making the matchsticks. These machines, once developed, would enable the mass production of matches. He is willing to transfer the technology to established entrepreneurs and help in product development. He has also developed a match strip to replace the conventional matchbox. Patil believes that everybody should have a sense of creativity. Citing his example, he points out that he persisted with his efforts to innovate even though he lacked money and laboratory facilities. US Patil has successfully developed a process of making splints for safety matches using some natural fibres. The natural fibres are bound by natural starch to give it the required thickness and strength. This is then coated by some natural oils to provide the final finishing. The fibres thus obtained are then cut to the required length/size. After cutting the threads they are dipped into the phosphorus solution to coat the tips with the igniting material. In comparison with conventional matchsticks these matchsticks burn longer. The matchstick burns slowly but steadily, reducing the chances of the user’s fingers being burnt. Further no harmful chemical is used except the mandatory phosphorus. Preparing these matchsticks is much easier and cheaper than preparing wooden matchsticks which require huge machinery for cutting logs of wood to suitable size. The innovation has a significant impact on the environment and can also change the dynamics of the safety match industry. NIF in coordination with GIAN- West has sanctioned an amount of Rs. 12,500 from its Micro Venture Innovation Fund towards laboratory testing and technology transfer of the matchstick. NIF has also filed the patent and the number is 345/MUM/04, 22.03.04.
+ 
+
+
+Milk Enhancer in Animals
+
+
+Image
+
+
+
+
+
+
+Name : Sristi
+District & State :  Ahmedabad, Gujarat
+Category : Agricultural (General)
+        
+Innovation Description
+
+We offer a complete line of herbal products, which are particularly milk enhancer compositions. These milk enhancer compositions do not affect the balanced nutrition of the milk. They are 100% natural, organic and purely herbal enhancers. They simply enhance the ruminant digestibility to a better extent, which promote the production of milk generating hormones naturally. This ensures no side effect to the animals. Moreover, it is cheaper than traditional, expensive and harmful chemicals.
+
+
+
+
+ Product Detail
+ SRISTI 
+
+Our Brand
+	Galactogogue
+	Category
+	Veterinary
+	Formulation
+	Powder
+	What for
+	Milk enhancer in animals
+	Pack size
+	280 gm
+	Application
+	20 gm twice a day with feed for 7 days
+	
+
+Hand driven sprayer
+
+
+
+
+Name : Gopalbhai Surtia
+District & State :  Vadodara, Gujarat
+Category : Utility
+Award :   Consolation
+Award Function :   3rd National Grassroots Innovation Awards
+
+
+Gopalbhai Surtia (50) is a farmer from Katholi village in Baroda district, Gujarat. He has studied upto the 8th standard. He has about 12 acres of land. He is married and has two sons. His father, Shri Parakram Singh, is a quite renowned singer of Gujarati traditional “Bhajans” and is still actively involved in farming at the age of 75. Gopalbhai’s elder son is also involved in farming while his younger son is a professional singer.
+ 
+Genesis Gopalbhai has developed an innovative “Hand Driven Sprayer “for spraying pesticides in the cotton crop. Gopalbhai conceived this idea because of the labour shortage and the difficulty he experienced in carrying 15 kg of weight on his back when using the conventional knapsack sprayers. He started working on this idea in 1997 despite opposition from his family members but now everyone is happy with him due to his success. Even neighbouring farmers borrow his pump now.
+ 
+Value addition on this device has been done by a student of NID (National Institute of Design) under GRIDS (Grassroots Innovation Design Studio). This technology was transferred by GIAN (West) on non exclusive basis to M/s Nilgiri Industries of Ahmedabad with sharing of benefits with Gopalbhai.
